@@ -9,7 +9,7 @@
     "Uxzylon"
   ],
 
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/playertabhider/icon.png",
 
   "environment": "server",
   "entrypoints": {
@@ -23,7 +23,6 @@
 
   "depends": {
     "fabricloader": ">=0.11.3",
-    "fabric": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
   }
