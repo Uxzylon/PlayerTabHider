@@ -4,7 +4,7 @@
   "package": "com.gmail.anthony17j.playertabhider.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "ExampleMixin"
+    "QueryResponseMixin"
   ],
   "injectors": {
     "defaultRequire": 1
